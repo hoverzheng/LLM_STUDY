@@ -9,7 +9,6 @@
     - [Platforms](#platforms)
     - [Papers](#papers)
     - [Talks](#talks)
-    - [TinyTroupe](#TinyTroupe)
 
 ---
 
