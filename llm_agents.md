@@ -9,6 +9,7 @@
     - [Platforms](#platforms)
     - [Papers](#papers)
     - [Talks](#talks)
+    - [TinyTroupe](#TinyTroupe)
 
 ---
 
@@ -161,7 +162,9 @@
     * Process monitoring
     * Agent collaboration
 
-
+* [TinyTroupe](https://github.com/microsoft/TinyTroupe?tab=readme-ov-file)
+    * 由LLM支持的多代理角色模拟可增强想象力和商业洞察力。
+      
 ---
 ## Applications
 
