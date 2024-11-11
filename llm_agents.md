@@ -3,7 +3,7 @@
  LLM agents. Open source, application, platform, or resources. If you have a suggestion, feel free to open an issue or pull request.
 
 ## Table of Contents
-- [Awesome LLM agents](#awesome-llm-agents)
+- [ LLM agents](#awesome-llm-agents)
     - [Frameworks](#frameworks)
     - [Applications](#applications)
     - [Platforms](#platforms)
