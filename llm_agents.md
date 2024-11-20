@@ -199,3 +199,17 @@
 * [Multi-agent concierge system](https://github.com/run-llama/multi-agent-concierge)
 * [Building a Multi-Agent Framework from Scratch with LlamaIndex](https://dev.to/yukooshima/building-a-multi-agent-framework-from-scratch-with-llamaindex-5ecn)
 * [A-Multi-Agent-Multi-Function-App](https://github.com/Ronoh4/A-Multi-Agent-Multi-Function-App)
+* - [LangChain(opens in a new tab)](https://python.langchain.com/docs/get_started/introduction): a framework for developing applications and agents powered by language models.
+- [AutoGPT(opens in a new tab)](https://github.com/Significant-Gravitas/AutoGPT): provides tools to build AI agents.
+- [Langroid(opens in a new tab)](https://github.com/langroid/langroid): Simplifies building LLM applications with Multi-Agent Programming: agents as first-class citizens, collaborating on tasks via messages.
+- [AutoGen(opens in a new tab)](https://microsoft.github.io/autogen/): a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+- [OpenAgents(opens in a new tab)](https://github.com/xlang-ai/OpenAgents): an open platform for using and hosting language agents in the wild.
+- [LlamaIndex(opens in a new tab)](https://www.llamaindex.ai/) - a framework for connecting custom data sources to large language models.
+- [GPT Engineer(opens in a new tab)](https://github.com/gpt-engineer-org/gpt-engineer): automate code generation to complete development tasks.
+- [DemoGPT(opens in a new tab)](https://github.com/melih-unsal/DemoGPT): autonomous AI agent to create interactive Streamlit apps.
+- [GPT Researcher(opens in a new tab)](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive online research on a variety of tasks.
+- [AgentVerse(opens in a new tab)](https://github.com/OpenBMB/AgentVerse): designed to facilitate the deployment of multiple LLM-based agents in various applications.
+- [Agents(opens in a new tab)](https://github.com/aiwaves-cn/agents): an open-source library/framework for building autonomous language agents. The library supports features including long-short term memory, tool usage, web navigation, multi-agent communication, and brand new features including human-agent interaction and symbolic control.
+- [BMTools(opens in a new tab)](https://github.com/OpenBMB/BMTools): extends language models using tools and serves as a platform for the community to build and share tools.
+- [crewAI(opens in a new tab)](https://www.crewai.io/): AI agent framework reimagined for engineers, offering powerful capabilities with simplicity to build agents and automations.
+- [Phidata(opens in a new tab)](https://github.com/phidatahq/phidata): a toolkit for building AI Assistants using function calling.
