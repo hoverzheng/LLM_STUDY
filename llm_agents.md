@@ -199,7 +199,7 @@
 * [Multi-agent concierge system](https://github.com/run-llama/multi-agent-concierge)
 * [Building a Multi-Agent Framework from Scratch with LlamaIndex](https://dev.to/yukooshima/building-a-multi-agent-framework-from-scratch-with-llamaindex-5ecn)
 * [A-Multi-Agent-Multi-Function-App](https://github.com/Ronoh4/A-Multi-Agent-Multi-Function-App)
-* - [LangChain(opens in a new tab)](https://python.langchain.com/docs/get_started/introduction): a framework for developing applications and agents powered by language models.
+* [LangChain(opens in a new tab)](https://python.langchain.com/docs/get_started/introduction): a framework for developing applications and agents powered by language models.
 - [AutoGPT(opens in a new tab)](https://github.com/Significant-Gravitas/AutoGPT): provides tools to build AI agents.
 - [Langroid(opens in a new tab)](https://github.com/langroid/langroid): Simplifies building LLM applications with Multi-Agent Programming: agents as first-class citizens, collaborating on tasks via messages.
 - [AutoGen(opens in a new tab)](https://microsoft.github.io/autogen/): a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
